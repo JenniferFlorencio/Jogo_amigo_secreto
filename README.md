@@ -1,6 +1,8 @@
 
 Amigo Secreto
 
+Segue link do projeto para realizarem testes: https://jogo-amigo-secreto-eosin.vercel.app/
+
 Este é um projeto simples de Amigo Secreto desenvolvido com HTML, CSS e JavaScript. O objetivo do site é permitir que os usuários adicionem nomes de amigos e realizem o sorteio de forma prática e sem repetições.
 
 Funcionalidades:
