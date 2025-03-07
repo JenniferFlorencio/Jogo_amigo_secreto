@@ -12,11 +12,13 @@ Sortear um nome aleatoriamente ao clicar em "Sortear amigo".
 Garantir que cada nome seja sorteado apenas uma vez.
 
 Como usar:
+
 Digite os nomes dos amigos na caixa de texto e clique em "Adicionar".
 Clique em "Sortear amigo" para realizar o sorteio.
 O nome sorteado aparecerá na tela e não será repetido até que todos os nomes tenham sido sorteados.
 
 Desafios e como resolvi:
+
 Evitar repetição dos nomes: Uma das maiores dificuldades foi fazer com que cada nome fosse sorteado apenas uma vez. Para resolver isso, criei uma lista de nomes sorteados e usei essa lista para garantir que ninguém fosse sorteado mais de uma vez.
 Exibir um nome por vez: No começo, todos os nomes sorteados apareciam de uma vez. Tive que ajustar para exibir apenas um nome por vez, o que fez o sorteio ficar mais interessante e organizado.
 Impedir o sorteio sem nomes: Outra coisa que percebi foi que o sorteio podia ser feito mesmo sem ter nomes na lista. Então, adicionei uma validação para impedir que o sorteio acontecesse sem nomes.
